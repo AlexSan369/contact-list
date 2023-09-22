@@ -1,0 +1,9 @@
+ul {
+    list-style-type: none;
+}
+
+#filterInput {
+    width: 100%;
+    padding: .5rem 2rem;
+    text-align: left;
+}
